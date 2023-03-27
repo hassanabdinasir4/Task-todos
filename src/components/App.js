@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
 import AddTodo from './Todo/AddTodo';
 import TodoList from './Todo/TodoList';
-import UpdateTodo from './Todo/updatetodo';
+import UpdateTodo from './Todo/Updatetodo';
 import Login from './Authentication/Login';
 import Navbar from './Navbar';
 import Register from './Authentication/Signup';
